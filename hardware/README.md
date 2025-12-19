@@ -17,6 +17,10 @@ Charger and Power:
 Battery Connector:
 * JST PH - [S2B-PH-K-S](https://www.digikey.com/en/products/detail/jst-sales-america-inc/S2B-PH-K-S/926626)
 
+Main to Cluster:
+* 02x03 Header - 2 - [BHR-06-HUA](https://www.digikey.com/en/products/detail/adam-tech/BHR-06-HUA/10414833)
+* Cable - 1 - [371](https://www.digikey.com/en/products/detail/adafruit-industries-llc/371/6827038)
+
 Power Switch:
 * E-Switch - [EG1224](https://www.digikey.com/en/products/detail/e-switch/EG1224/502052?s=N4IgTCBcDaIKIHEAEBGMYAsIC6BfIA)
 
