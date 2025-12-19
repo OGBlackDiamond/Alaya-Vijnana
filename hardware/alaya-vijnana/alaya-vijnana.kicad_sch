@@ -1,0 +1,140 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "a3984b5f-5482-487c-827c-93986b80e1c8")
+	(paper "A3")
+	(lib_symbols)
+	(sheet
+		(at 29.21 36.83)
+		(size 88.9 54.61)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "0dccec26-d854-49d3-8867-bf55eaef7f97")
+		(property "Sheetname" "Left Side"
+			(at 29.21 36.1184 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "leftSide.kicad_sch"
+			(at 29.21 92.0246 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "alaya-vijnana"
+				(path "/a3984b5f-5482-487c-827c-93986b80e1c8"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 133.35 35.56)
+		(size 93.98 54.61)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "13abaaa7-652e-4a16-9fc7-1610d4c7b512")
+		(property "Sheetname" "Right Side"
+			(at 133.35 34.8484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "rightSide.kicad_sch"
+			(at 133.35 90.7546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "alaya-vijnana"
+				(path "/a3984b5f-5482-487c-827c-93986b80e1c8"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 245.11 36.83)
+		(size 92.71 52.07)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "9c2aa8ea-1b1f-4569-9892-88a83d8ea96a")
+		(property "Sheetname" "Key Matrix"
+			(at 245.11 36.1184 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "matrix.kicad_sch"
+			(at 245.11 89.4846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "alaya-vijnana"
+				(path "/a3984b5f-5482-487c-827c-93986b80e1c8"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
