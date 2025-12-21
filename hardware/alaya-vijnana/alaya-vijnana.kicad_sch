@@ -89,48 +89,6 @@
 			)
 		)
 	)
-	(sheet
-		(at 245.11 36.83)
-		(size 92.71 52.07)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(fill
-			(color 0 0 0 0.0000)
-		)
-		(uuid "9c2aa8ea-1b1f-4569-9892-88a83d8ea96a")
-		(property "Sheetname" "Key Matrix"
-			(at 245.11 36.1184 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Sheetfile" "matrix.kicad_sch"
-			(at 245.11 89.4846 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(instances
-			(project "alaya-vijnana"
-				(path "/a3984b5f-5482-487c-827c-93986b80e1c8"
-					(page "4")
-				)
-			)
-		)
-	)
 	(sheet_instances
 		(path "/"
 			(page "1")
