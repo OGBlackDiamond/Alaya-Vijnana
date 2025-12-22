@@ -35,6 +35,12 @@ Inductors:
 LEDs:
 * Charge - 1 - [HSMD-C150](https://www.digikey.com/en/products/detail/broadcom-limited/HSMD-C150/637702)
 
+Diodes:
+* 21 - [CDSU101A](https://www.digikey.com/en/products/detail/comchip-technology/CDSU101A/1121034)
+
+Hot Swap Sockets:
+* 2 (1 = 20pc) - [4958](https://www.digikey.com/en/products/detail/adafruit-industries-llc/4958/13997772)
+
 Resistors:
 * 10k - 3 - [RC0603FR-0710KL](https://www.digikey.com/en/products/detail/yageo/RC0603FR-0710KL/726880)
 * 10M - 1 - [RC0603JR-0710ML](https://www.digikey.com/en/products/detail/yageo/RC0603JR-0710ML/726701)
