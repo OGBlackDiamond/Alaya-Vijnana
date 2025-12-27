@@ -1,0 +1,5 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+"D16, D17, D18, D19, D20, D21",0603,6,D,
+J8,IDC-Header_2x03_P2.54mm_Horizontal,1,CLUSTER_CONN,
+"SW17, SW20, SW21, SW22",MX-Hotswap-1U,4,MX HotSwap,
+"SW18, SW19",MX-Hotswap-2U,2,MX HotSwap,

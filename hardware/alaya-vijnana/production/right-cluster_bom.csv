@@ -1,0 +1,5 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+"D37, D38, D39, D40, D41, D42",0603,6,D,
+J7,IDC-Header_2x03_P2.54mm_Horizontal,1,CLUSTER_CONN,
+"SW39, SW42, SW43, SW44",MX-Hotswap-1U,4,MX HotSwap,
+"SW40, SW41",MX-Hotswap-2U,2,MX HotSwap,
