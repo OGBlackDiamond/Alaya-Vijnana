@@ -1,0 +1,3 @@
+[submodule "software/software/zmk-config"]
+	path = software/software/zmk-config
+	url = https://github.com/OGBlackDiamond/zmk-config.git
