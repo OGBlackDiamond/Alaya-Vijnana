@@ -661,7 +661,7 @@
         "uuid": "ed37d796-7d62-4bcc-acfc-9f082c84aa56"
       }
     ],
-    "used_designators": "LED3",
+    "used_designators": "RESET\\-SW1,POWER\\-SW1",
     "variants": []
   },
   "sheets": [
